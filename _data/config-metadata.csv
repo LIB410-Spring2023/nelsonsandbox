@@ -1,20 +1,20 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-datecreated,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-county,County of Origin,true
-latitude,Latitude
-longitude,Longitude
-source,Source
+title,Title,,
+creator,Creator,,
+datecreated,Date Created,,
+description,Description,,
+subject,Subjects,true,
+location,Location,
+county,County of Origin,true,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Type,,,
+format,Format,,,
+rights,Rights,,,
 rightsstatement,Rights Statement,,true
-creativecommons,Creative Commons License,
-citation,Citation,
-archivedpage,Link to Archived Page,
+creativecommons,Creative Commons License,,true
+citation,Citation,,,
+archivedpage,Link to Archived Page,,true
 
